@@ -10,4 +10,5 @@ LinkML provides a facility to automatically generate a set of web pages describi
 
 Further work on PPOD_FSL will include providing standardized identifiers for newly created data schema elements and instance data using the URL resolution service [w3id.org](https://w3id.org/). Over the near future, work on PPOD schemas will shift to modularizing PPOD into a PPOD core and individual PPOD application schemas that inherit classes and slots from PPOD-core.
 
-Work on the PPOD FSL LinkML schema has been funded under the [NSF ICICLE AI Institute](https://icicle.osu.edu/), grant number OAC-2112606.
+# Acknowledgements
+*Work on the PPOD FSL LinkML schema has been funded under the [NSF ICICLE AI Institute](https://icicle.osu.edu/), grant number OAC-2112606.*
